@@ -89,3 +89,5 @@ class UserController extends Controller
         return ['name' => $name];
     }
 }
+
+postgres://drrasspivmvuom:a57e914ca85c2c49681f126a473a02022d45093de205315cc5b0fa3825bc404c@ec2-34-236-88-129.compute-1.amazonaws.com:5432/d14tp0p4ktm5s5
